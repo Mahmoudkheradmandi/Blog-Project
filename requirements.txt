@@ -1,0 +1,10 @@
+asgiref
+Django==3.2.25
+python-decouple
+pytz
+sqlparse
+djangorestframework
+markdown       
+django-filter
+drf-yasg
+djangorestframework-simplejwt
